@@ -1,0 +1,29 @@
+{
+  "earning": [
+    {
+      "sourceName": "envato.com",
+      "progress": "17%",
+      "progressBar": 17
+    },
+    {
+      "sourceName": "google.com",
+      "progress": "27%",
+      "progressBar": 27
+    },
+    {
+      "sourceName": "yahoo.com",
+      "progress": "25%",
+      "progressBar": 25
+    },
+    {
+      "sourceName": "store",
+      "progress": "18%",
+      "progressBar": 18
+    },
+    {
+      "sourceName": "others",
+      "progress": "13%",
+      "progressBar": 13
+    }
+  ]
+}

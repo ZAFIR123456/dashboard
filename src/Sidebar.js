@@ -26,6 +26,7 @@ import {
   FiUsers,
 } from "react-icons/fi";
 import { MdKeyboardArrowRight } from "react-icons/md";
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   const integrations = useDisclosure();
@@ -160,6 +161,7 @@ const Sidebar = () => {
             />
           </Flex>
           <Collapse in={integrations.isOpen}>
+            <Link to={'/'}>
             <Flex
               // _hover={{ bgColor: "#F0F3FB" }}
               textColor={"black"}
@@ -171,8 +173,9 @@ const Sidebar = () => {
               mt={"5px"}
               pl={"35px"}
             >
-              Dashboard 1
+              Dashboard 
             </Flex>
+            </Link>
           </Collapse>
         </Box>
         <Box boxSizing="border-box" cursor="pointer" px={"10px"} mt={"10px"}>
@@ -203,6 +206,7 @@ const Sidebar = () => {
             />
           </Flex>
           <Collapse in={projectsIntegrations.isOpen}>
+            <Link to={'/allprojects'}>
             <Flex
               // _hover={{ bgColor: "#F0F3FB" }}
               textColor={"black"}
@@ -216,6 +220,7 @@ const Sidebar = () => {
             >
               All Projects
             </Flex>
+            </Link>
             <Flex
               // _hover={{ bgColor: "#F0F3FB" }}
               textColor={"black"}

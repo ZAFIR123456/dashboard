@@ -1,0 +1,41 @@
+{
+  "notice": [
+    {
+      "name": "Airi Satou",
+      "color":"#3F51B5",
+      "picture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user6.jpg",
+      "description": "Lorem ipsum dolor sit amet, id quo eruditi eloquentiam.",
+      "time": "7 hours ago"
+    },
+    {
+      "name": "Sarah Smith",
+      "picture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user4.jpg",
+      "description": "Lorem ipsum dolor sit amet, id quo eruditi eloquentiam.",
+      "time": "1 hours ago"
+    },
+    {
+      "name": "Cara Stevens",
+      "picture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user3.jpg",
+      "description": "Lorem ipsum dolor sit amet, id quo eruditi eloquentiam.",
+      "time": "4 hours ago"
+    },
+    {
+      "name": "Ashton Cox",
+      "picture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user7.jpg",
+      "description": "Lorem ipsum dolor sit amet, id quo eruditi eloquentiam.",
+      "time": "2 hours ago"
+    },
+    {
+      "name": "Mark Hay",
+      "picture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user9.jpg",
+      "description": "Lorem ipsum dolor sit amet, id quo eruditi eloquentiam.",
+      "time": "3 hours ago"
+    },
+    {
+      "name": "Jay Pandya",
+      "picture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user8.jpg",
+      "description": "Lorem ipsum dolor sit amet, id quo eruditi eloquentiam.",
+      "time": "1 hours ago"
+    }
+  ]
+}

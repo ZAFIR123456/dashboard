@@ -1,0 +1,54 @@
+{
+    "project": [
+    {
+      "projectName": "Project A",
+      "progress": "30%",
+      "duration": "2 Months",
+      "progressBar": 30
+    },
+    {
+        "projectName": "Project B",
+        "progress": "60%",
+        "progressBar": 60,
+        "duration": "6 Months"
+      },
+      {
+        "projectName": "Project C",
+        "progress": "90%",
+        "progressBar": 90,
+        "duration": "7 Months"
+      },
+      {
+        "projectName": "Project D",
+        "progress": "40%",
+        "progressBar": 40,
+        "duration": "2 Months"
+      },
+      {
+        "projectName": "Project E",
+        "progress": "30%",
+        "progressBar": 30,
+        "duration": "5 Months"
+      },
+      {
+        "projectName": "Project F",
+        "progress": "80%",
+        "progressBar": 80,
+        "duration": "5 Months"
+      },
+      {
+        "projectName": "Project G",
+        "progress": "10%",
+        "progressBar": 10,
+        "duration": "9 Months"
+      },
+      {
+        "projectName": "Project H",
+        "progress": "30%",
+        "progressBar": 30,
+        "duration": "7 Months"
+      }
+    
+  ]
+}
+  

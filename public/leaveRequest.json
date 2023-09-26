@@ -1,0 +1,84 @@
+{
+  "leave": [
+    {
+      "id": "ID7865",
+      "employeeName": "Jens Brincker",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user6.jpg",
+      "leaveType": "Sick Leave",
+      "leaveFrom": "22/05/2021",
+      "leaveTo": "27/05/2021",
+      "days": "6",
+      "value": 1
+    },
+    {
+      "id": "ID9357",
+      "employeeName": "Mark Harry",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user4.jpg",
+      "leaveType": "Casual Leave",
+      "leaveFrom": "12/06/2021",
+      "leaveTo": "15/06/2021",
+      "days": "4",
+      "value": 3
+    },
+    {
+      "id": "ID9876",
+      "employeeName": "Anthony Davie",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user3.jpg",
+      "leaveType": "Marriage Leave",
+      "leaveFrom": "02/02/2021",
+      "leaveTo": "12/02/2021",
+      "days": "6",
+      "value": 2
+    },
+    {
+      "id": "ID9376",
+      "employeeName": "David Perry",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user7.jpg",
+      "leaveType": "Maternity leave",
+      "leaveFrom": "10/01/2021",
+      "leaveTo": "10/03/2021",
+      "days": "90",
+      "value": 1
+    },
+    {
+      "id": "ID7865",
+      "employeeName": "Jens Brincker",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user6.jpg",
+      "leaveType": "Sick Leave",
+      "leaveFrom": "22/05/2021",
+      "leaveTo": "27/05/2021",
+      "days": "6",
+      "value": 1
+    },
+    {
+      "id": "ID9357",
+      "employeeName": "Mark Harry",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user4.jpg",
+      "leaveType": "Casual Leave",
+      "leaveFrom": "12/06/2021",
+      "leaveTo": "15/06/2021",
+      "days": "4",
+      "value": 3
+    },
+    {
+      "id": "ID9876",
+      "employeeName": "Anthony Davie",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user3.jpg",
+      "leaveType": "Marriage Leave",
+      "leaveFrom": "02/02/2021",
+      "leaveTo": "12/02/2021",
+      "days": "6",
+      "value": 2
+    },
+    {
+      "id": "ID9376",
+      "employeeName": "David Perry",
+      "profilePicture": "https://einfosoft.com/templates/admin/kuber/source/light/assets/images/user/user7.jpg",
+      "leaveType": "Maternity leave",
+      "leaveFrom": "10/01/2021",
+      "leaveTo": "10/03/2021",
+      "days": "90",
+      "value": 1
+    }
+  ]
+}
